@@ -13,9 +13,7 @@ export default function Footersection() {
           <div>
             <h2 className="text-white text-xl font-bold mb-4">NextShop</h2>
             <p className="text-sm leading-relaxed mb-4">
-              แหล่งรวมสินค้าไอทีและแก็ดเจ็ตที่ทันสมัยที่สุด 
-              คัดสรรสินค้าคุณภาพเพื่อตอบโจทย์ทุกไลฟ์สไตล์ของคุณ 
-              พร้อมบริการจัดส่งทั่วประเทศ
+             แหล่งรวมคนเอ๋อมาเขียนโค้ดจนสมองแตก
             </p>
           </div>
 
@@ -50,9 +48,9 @@ export default function Footersection() {
           <div>
             <h3 className="text-white text-lg font-semibold mb-4">ติดต่อเรา</h3>
             <ul className="space-y-2 text-sm">
-              <li>📍 9 ถ.เวียงแก้ว ต.ศรีภูมิ อ.เมือง จ.เชียงใหม่ 50200</li>
-              <li>📞 02-123-4567 (จ.-ศ. 09:00 - 18:00)</li>
-              <li>✉️ support@nextshop.com</li>
+              <li>📍 อยู่ตรงข้าม แมคโดนอล </li>
+              <li>📞 081-417-0701 </li>
+              <li>✉️ support@mybenzshop.com</li>
             </ul>
             
             {/* ปุ่ม Social Media แบบจำลอง (ใส่ลิงก์จริงที่ href) */}
